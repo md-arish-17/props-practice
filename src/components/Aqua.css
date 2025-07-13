@@ -1,0 +1,14 @@
+.umar{
+    height: 70px;
+    width: 100%;
+    background-color: aqua;
+    border-radius: 10px;
+    margin: 10px 0px;
+}
+.umar{
+    display: flex;
+    /* flex-direction: row; */
+    align-items: center;
+    justify-content: space-between;
+    padding: 10px 8px;
+}
